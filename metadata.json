@@ -1,0 +1,6 @@
+{
+  "name": "اسنوکر پرو",
+  "description": "برنامه حرفه‌ای داوری و ثبت امتیازات اسنوکر با لیدربورد زنده، قوانین رسمی و سفارشی و زبان فارسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

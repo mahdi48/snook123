@@ -1,0 +1,37 @@
+{
+  "id": "/",
+  "name": "اسنوکر پرو | داوری و ثبت امتیازات",
+  "short_name": "اسنوکر پرو",
+  "description": "برنامه حرفه‌ای ثبت امتیاز و داوری اسنوکر با لیدربورد زنده، قوانین رسمی و سفارشی و زبان فارسی",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "/snooker-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/snooker-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/snooker-icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

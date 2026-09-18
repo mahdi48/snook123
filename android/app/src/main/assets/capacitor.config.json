@@ -1,0 +1,12 @@
+{
+	"appId": "com.snookerpro.app",
+	"appName": "اسنوکر پرو",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"allowMixedContent": true,
+		"backgroundColor": "#090d16"
+	}
+}
